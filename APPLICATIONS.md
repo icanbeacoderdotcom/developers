@@ -1,8 +1,11 @@
-## Applications that we are currently working on
+### Applications that we are currently working on
 
-  1. Codes Snippet Manager
-  2. Terminal Emmulator, supporting few commands fortune, excuse
+  1. **Codes Snippet Manager**
+  2. **Terminal Emmulator**, supporting few commands like fortune, excuse
   3. [YOUR IDEA CAN GO HERE]
+  
+
+
   
 All the softwares built under the name icanbeacoder.com are licensed under MIT
   
